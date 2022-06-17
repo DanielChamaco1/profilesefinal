@@ -1,0 +1,24 @@
+img{
+    position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #000000;
+}
+span{
+    position: absolute;
+width: 67px;
+height: 18px;
+left: 475px;
+top: 894px;
+
+font-family: 'PT Sans Caption';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+
+color: #000000;
+}

@@ -1,0 +1,32 @@
+.ti{
+    position: absolute;
+width: 328px;
+height: 62px;
+left: 386px;
+top: 567px;
+
+font-family: 'PT Sans Caption';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 62px;
+
+color: #000000;
+}
+.seti{
+    position: absolute;
+width: 224px;
+height: 47px;
+left: 438px;
+top: 629px;
+
+font-family: 'PT Sans Caption';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #000000;
+}

@@ -1,0 +1,17 @@
+.ho{
+    margin: 0;
+    position: absolute;
+width: 691px;
+height: 825px;
+left: 196px;
+top: 127px;
+border-radius: 15px;
+}
+.se{
+    position: absolute;
+width: 287px;
+height: 287px;
+left: 398px;
+top: 261px;
+border-radius: 50%;
+}

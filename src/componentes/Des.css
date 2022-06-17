@@ -1,0 +1,26 @@
+.des{
+    position: absolute;
+width: 426px;
+height: 93px;
+left: 337px;
+top: 723px;
+
+font-family: 'PT Sans Caption';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+text-align: center;
+
+color: #000000;
+}
+.er{
+    position: absolute;
+width: 692px;
+height: 548px;
+left: 196px;
+top: 404px;
+
+background: #FFFFFF;
+border-radius: 15px;
+}
